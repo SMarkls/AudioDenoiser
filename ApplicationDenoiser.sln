@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationDenoiser.Console", "ApplicationDenoiser.Console\ApplicationDenoiser.Console.csproj", "{7C2A62EA-CEF4-4BAF-B2A6-7CA1CE1250FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C2A62EA-CEF4-4BAF-B2A6-7CA1CE1250FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2A62EA-CEF4-4BAF-B2A6-7CA1CE1250FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2A62EA-CEF4-4BAF-B2A6-7CA1CE1250FF}.Debug|Any CPU.ActiveCfg = Debug Copy|x64
+		{7C2A62EA-CEF4-4BAF-B2A6-7CA1CE1250FF}.Debug|Any CPU.Build.0 = Debug Copy|x64
+	EndGlobalSection
+EndGlobal
